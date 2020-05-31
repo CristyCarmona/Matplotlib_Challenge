@@ -14,11 +14,7 @@ tumor development was observed and measured. The purpose of this study was to co
 Capomulin, versus the other treatment regimens. 
 
 # Dependencies and Setup
-import matplotlib.pyplot as plt
-import pandas as pd
-import scipy.stats as st
-import numpy as np
-from scipy.stats import linregress
+Matplotlib.pyplot, pandas, scipy.stats, numpy, linregress
 
 # Resources
 Mouse_metadata.csv .- general data of each mouse (Mouse ID, sex, weight, etc.)
