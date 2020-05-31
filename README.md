@@ -1,9 +1,9 @@
 # Matplotlib_Challenge
 
-Title:
+# Title:
 Pymaceuticals Inc. Squamous Cell Carcinoma Trial 
 
-Description:
+# Description:
 Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. 
 Pymaceuticals specializes in anti-cancer pharmaceuticals. 
 In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC),
@@ -20,7 +20,7 @@ import scipy.stats as st
 import numpy as np
 from scipy.stats import linregress
 
-** Resources
+# Resources
 Mouse_metadata.csv .- general data of each mouse (Mouse ID, sex, weight, etc.)
 Study_results.csv.- this file contains the result of the study through time 
 
